@@ -5,3 +5,11 @@ image-classification/checkpoint
 image-classification/image_classification.data-00000-of-00001
 image-classification/image_classification.index
 image-classification/image_classification.meta
+tv-script-generation/checkpoint
+tv-script-generation/params.p
+tv-script-generation/preprocess.p
+tv-script-generation/save.data-00000-of-00001
+tv-script-generation/save.index
+tv-script-generation/save.meta
+language-translation/preprocess.p
+
