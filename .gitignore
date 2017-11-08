@@ -12,4 +12,5 @@ tv-script-generation/save.data-00000-of-00001
 tv-script-generation/save.index
 tv-script-generation/save.meta
 language-translation/preprocess.p
-
+language-translation/params.p
+language-translation/checkpoints/*
