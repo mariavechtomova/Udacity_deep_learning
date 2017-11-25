@@ -14,3 +14,5 @@ tv-script-generation/save.meta
 language-translation/preprocess.p
 language-translation/params.p
 language-translation/checkpoints/*
+face_generation/data
+
